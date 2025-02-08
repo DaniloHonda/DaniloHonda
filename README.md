@@ -1,19 +1,84 @@
-# Danilo Yui Honda
+<h1 align="center">Hi there! 👋 I'm Danilo Yui Honda</h1>
 
-Olá! Meu nome é **Danilo Yui Honda**. Sou estudante de **Ciência da Computação** na **Universidade Presbiteriana Mackenzie**, atualmente no quarto semestre. Tenho 19 anos e sou apaixonado por tecnologia, inovação e programação.
+<p align="center">
+  <a href="https://github.com/DaniloHonda">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F7B93E&center=true&vCenter=true&width=500&lines=Computer+Science+Student;FullStack+Developer" />
+  </a>
+</p>
 
-## Habilidades
+---
 
-- **Linguagens de Programação**: Python, C, Java, SQL, PHP.
-- **Ferramentas e Softwares**: Visual Studio Code, IntelliJ, SQL Server, Git e GitHub.
+## 🚀 Tech Stack
 
-## Experiências
+### 💻 Languages & Frameworks  
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Filament-4A90E2?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
 
-- **Acura Technologies Ltda**: Trabalhei na instalação e teste de robôs com tecnologia RFID para inventário de lojas e estoques em varejo.
-- **Residência MackLeaps**: Faço parte de uma equipe que utiliza metodologias ágeis para desenvolver projetos de empresas parceiras da universidade.
-- **Restaurante Japonês**: Trabalhei como garçom, onde desenvolvi trabalho em equipe, comunicação com o cliente e inglês e espanhol com clientes estrangeiros.
-- **Secretaria de Direitos Humanos e Cidadania**: Atualmente trabalho na SMDHC, fazendo o desenvolvimento e suporte do SIAD - Sistema Integrado de Atendimentos em Direitos Humanos, que é um sistema da Secretaria Municipal de Direitos Humanos e Cidadania de São Paulo (SMDHC) para registrar atendimentos, gerenciar benefícios e monitorar casos de violência. Ele melhora a qualidade dos atendimentos, integra a rede de serviços e apoia a criação de políticas públicas com base em dados, melhorando a qualidade de vida dos habitantes da cidade de Säo Paulo
+### 🎨 UI & Styling  
+<p align="center">
+  <img src="https://img.shields.io/badge/Filament-4A90E2?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-Estou sempre buscando aprender mais e me desenvolver em áreas que envolvem tecnologia e programação. 
+### 🛠️ Tools & Databases  
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
 
-Fique à vontade para explorar meus repositórios e ver alguns dos projetos em que estou trabalhando!
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danilohonda">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:daniloyuihonda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <a href="https://github.com/DaniloHonda">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloHonda&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloHonda&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 💼 Experience  
+- **🚀 Software Developer | Secretaria Municipal de Direitos Humanos e Cidadania (SMDHC)**  
+  - Working on **SIAD** (Integrated Human Rights Assistance System), a platform that improves service quality, integrates social services, and supports data-driven public policies in São Paulo.  
+  - **Tech stack:** PHP, Laravel, Filament, PostgreSQL  
+
+- **🤖 RFID Technician | Acura Technologies Ltda**  
+  - Worked on **installation and testing** of RFID-based robots for inventory management in retail stores.  
+
+- **🏢 Agile Development | MackLeaps Residency**  
+  - Collaborated with teams using **agile methodologies** to develop projects for university-partnered companies.  
+
+- **🍣 Customer Service | Japanese Restaurant**  
+  - Developed teamwork, communication, and language skills (**English & Spanish**) while working as a waiter.   
+
+---
+
