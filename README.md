@@ -56,41 +56,6 @@
 
 ---
 
----
-
-## 💼 Experience  
-
-### 🚀 **Software Developer | Municipal Secretariat of Human Rights and Citizenship (SMDHC)**  
-*10/2024 - Present*  
-- Working on **SIAD**, a system that manages complaints, social programs, public services, and resources for the São Paulo population.  
-- **Current Project**: Leading the development of a project management module to organize timelines, track progress, and identify delays early.  
-- **Problem**: Lack of a clear project tracking system led to delays and disorganization.  
-- **Solution**: Building a module with PHP, Laravel, Filament, and Eloquent to centralize task management and provide real-time updates.  
-- **Impact**: In progress, expected to streamline workflows, reduce delays, and enhance decision-making with better data visibility.  
-- **Technologies**: PHP, Laravel, Filament, PostgreSQL
-
-### 🏢 **Agile Development | MackLeaps Residency**  
-*02/2024 - 11/2024*  
-- Collaborated in teams using **agile methodologies** to develop projects for university-partnered companies.  
-- **Project**: Developed a prototype e-commerce platform for Entreposto, connecting floriculturists with architects and managing deliveries.  
-- **Problem**: Architects struggled to find plant suppliers efficiently.  
-- **Solution**: Created a simple platform using React, TypeScript, Tailwind, Node.js (Express), and Prisma.  
-- **Impact**: Reduced plant acquisition time by 40%; adopted and completed by Entreposto to improve the supply chain.  
-- **Technologies**: React, TypeScript, Tailwind, Node.js (Express), Prisma
-
-### 🍣 **Customer Service | Japanese Restaurant**
-*07/2024 - 20/2024*
-- Worked as a waiter at Nara Obento, a Japanese restaurant, where I developed strong customer service, teamwork, time
-management, communication, resilience, and emotional intelligence skills. Additionally, I gained experience interacting with
-international clients.
-
-### 🤖 **RFID Technician | Acura Technologies Ltda**  
-*05/2024 - 07/2024*  
-- Worked on the **installation and testing** of RFID-based robots for inventory management in retail stores.  
-- Contributed to optimizing logistics processes with cutting-edge technology.
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <a href="https://github.com/DaniloHonda">
