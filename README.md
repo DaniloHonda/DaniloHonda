@@ -70,7 +70,7 @@
 
 - **[Custom Power BI Visuals Library (Live Demo)](https://danilohonda.github.io/visuais-powerbi-demo/)** — Interactive browser showcase of 16 custom Power BI visuals built with TypeScript and the Power BI API (SLA tables with median/P90, conversion funnels, heatmaps, smart slicers, and CSV-exportable tables).
 - **Dento (`Private Repo`)** — Personal multi-agent orchestration system built with OMP, Hermes, and Python, integrated with a persistent Second Brain for long-term memory across finance, scheduling, and investments.
-- **Diabetic Retinopathy Detection — Senior Thesis (`Private Repo`)** — Deep Learning & Computer Vision benchmark comparing DenseNet121, U-Net, and ConvNeXt-Small against Multimodal LLMs on 5,268 test fundus images (**82.2% accuracy**, **0.84 Quadratic Weighted Kappa**).
+- **Diabetic Retinopathy Detection — Senior Thesis (`Private Repo`)** — Computer Vision benchmark comparing a specialized ConvNeXt-Small against multimodal LLMs (Gemini 3 Flash, Gemini 3.5 Flash, Gemma 4) on 5,270 test fundus images (**83% accuracy**, **0.83 Quadratic Weighted Kappa** vs. 0.28–0.45 for the LLMs).
 - **[NutriHub AI API](https://github.com/devBrait/nutrihub-ai-api)** — Microservices platform (.NET, C#, React, TypeScript, PostgreSQL) using AI to estimate calories/macros from meal photos and generate personalized diets.
 
 ---
