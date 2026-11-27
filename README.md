@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DaniloHonda">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F7B93E&center=true&vCenter=true&width=620&lines=Data+Analyst+%40+XP+Inc.;BI+%26+Custom+Power+BI+Visuals+Engineer;GenAI+%26+Multi-Agent+Systems+Builder;CS+Senior+%40+Mackenzie+(Dec+2026)" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F7B93E&center=true&vCenter=true&width=620&lines=Data+Analyst+%40+XP+Inc.;BI+%26+Custom+Power+BI+Visuals+Engineer;GenAI+%26+Multi-Agent+Systems+Builder;Computer+Vision+%26+Medical+AI+Research;CS+Senior+%40+Mackenzie+(Dec+2026)" />
   </a>
 </p>
 
@@ -14,10 +14,10 @@
 
 ## 💡 About Me
 
-- Currently working as a **Data Analytics** in People Analytics at **XP Inc.** (B2C Recruitment & Corporate HR).
+- **Data Analytics Intern** in People Analytics at **XP Inc.** (B2C Recruitment & Corporate HR), working as a Junior Data Analyst: executive dashboards in Power BI (PBIP + GitHub), SQL/PySpark pipelines on Databricks and LLM-based solutions.
 - Built a proprietary library of **16 custom Power BI visuals in TypeScript** on top of the Power BI API — check out the **[Live Interactive Demo](https://danilohonda.github.io/visuais-powerbi-demo/)**.
 - Architecting **Multi-Agent orchestration workflows (OMP, Hermes, MCP)** and LLM pipelines (including ranking **40,000+ resumes** to fill 70 roles in 15 days).
-- Senior Computer Science student at **Universidade Presbiteriana Mackenzie** (graduating Dec 2026), researching **Computer Vision & Multimodal LLMs** for Diabetic Retinopathy detection.
+- Senior Computer Science student at **Universidade Presbiteriana Mackenzie** (graduating Dec 2026). My thesis compares a specialized deep learning model against multimodal LLMs for **diabetic retinopathy detection** — see the **[results page](https://danilohonda.github.io/cpdiabeticretinopathy-demo/)**.
 - Fluent in **English (EF SET C2)**, native in **Portuguese**, intermediate in **Spanish**.
 
 ---
@@ -68,9 +68,28 @@
 
 ## 🌟 Featured Projects
 
-- **[Custom Power BI Visuals Library (Live Demo)](https://danilohonda.github.io/visuais-powerbi-demo/)** — Interactive browser showcase of 16 custom Power BI visuals built with TypeScript and the Power BI API (SLA tables with median/P90, conversion funnels, heatmaps, smart slicers, and CSV-exportable tables).
-- **Dento (`Private Repo`)** — Personal multi-agent orchestration system built with OMP, Hermes, and Python, integrated with a persistent Second Brain for long-term memory across finance, scheduling, and investments.
-- **Diabetic Retinopathy Detection — Senior Thesis (`Private Repo`)** — Computer Vision benchmark comparing a specialized ConvNeXt-Small against multimodal LLMs (Gemini 3 Flash, Gemini 3.5 Flash, Gemma 4) on 5,270 test fundus images (**83% accuracy**, **0.83 Quadratic Weighted Kappa** vs. 0.28–0.45 for the LLMs).
+### 👁️ Beyond the Human Eye — Diabetic Retinopathy Detection (Senior Thesis)
+
+> Can a general-purpose LLM be trusted to read medical images? I compared a **specialized ConvNeXt-Small** against **Gemini 3 Flash, Gemini 3.5 Flash and Gemma 4** on the same **5,270 held-out fundus images** (EyePACS, split by patient to avoid leakage) for the 5-stage severity scale.
+
+| Model | QWK | Accuracy |
+|---|:---:|:---:|
+| **ConvNeXt-Small (in-house)** | **0.83** | **0.83** |
+| Gemini 3 Flash (zero-shot) | 0.45 | 0.74 |
+| Gemini 3.5 Flash (zero-shot) | 0.43 | 0.76 |
+| Gemma 4 26B (zero-shot) | 0.28 | 0.73 |
+
+- **Key finding:** the LLMs reach ~74% accuracy mostly by answering "healthy" — 73.7% of the test set is healthy. Their recall on *mild* DR is ≤ 0.01, i.e. almost every early-stage case is missed. The specialized model keeps recall between 0.47 and 0.60 on every disease stage (0.59 on severe DR).
+- **What made the difference:** ordinal regression (Smooth L1) instead of plain classification, Ben Graham preprocessing, a class-balanced sampler, validation-tuned thresholds (OptimizedRounder, optimizing QWK) and 4× test-time augmentation. Grad-CAM was used to inspect what the network looks at.
+- **Stack:** Python, PyTorch, timm, Grad-CAM, Google Gemini API.
+- 🔗 **[Interactive results page](https://danilohonda.github.io/cpdiabeticretinopathy-demo/)** · Code in a private repository · Co-authored with Luis Darre, advised by Prof. Anderson Borba (Mackenzie, 2026).
+- ⚠️ Academic research. Not a medical device and not a substitute for professional evaluation.
+
+### 🧩 Other projects
+
+- **[Custom Power BI Visuals Library (Live Demo)](https://danilohonda.github.io/visuais-powerbi-demo/)** — Interactive browser showcase of 16 custom Power BI visuals built with TypeScript and the Power BI API (SLA tables with median/P90, conversion funnels, heatmaps, smart slicers, and CSV-exportable tables). The real visual code runs in the page against a fake Power BI host.
+- **[Dento (`Private Repo`)](https://danilohonda.github.io/dento-deepdive/)** — Personal multi-agent orchestration system built with OMP, Hermes, and Python, integrated with a persistent Second Brain for long-term memory across finance, scheduling, and investments. Deep dive linked.
+- **[Personal Portfolio](https://danilohonda.github.io/portifolio/)** — Vue 3 + Vite + TresJS site with a 3D particle galaxy, deployed with GitHub Pages ([source](https://github.com/DaniloHonda/portifolio)).
 - **[NutriHub AI API](https://github.com/devBrait/nutrihub-ai-api)** — Microservices platform (.NET, C#, React, TypeScript, PostgreSQL) using AI to estimate calories/macros from meal photos and generate personalized diets.
 
 ---
@@ -83,6 +102,12 @@
   </a>
   <a href="https://danilohonda.github.io/visuais-powerbi-demo/">
     <img src="https://img.shields.io/badge/Power_BI_Visuals_Demo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
+  <a href="https://danilohonda.github.io/portifolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0F2744?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  </a>
+  <a href="https://danilohonda.github.io/cpdiabeticretinopathy-demo/">
+    <img src="https://img.shields.io/badge/Thesis_Results-2E7D32?style=for-the-badge&logo=pytorch&logoColor=white"/>
   </a>
   <a href="mailto:hondadanilo6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
