@@ -17,7 +17,8 @@
 - **Data Analytics Intern** in People Analytics at **XP Inc.** (B2C Recruitment & Corporate HR), working as a Junior Data Analyst: executive dashboards in Power BI (PBIP + GitHub), SQL/PySpark pipelines on Databricks and LLM-based solutions.
 - Built a proprietary library of **16 custom Power BI visuals in TypeScript** on top of the Power BI API — check out the **[Live Interactive Demo](https://danilohonda.github.io/visuais-powerbi-demo/)**.
 - Architecting **Multi-Agent orchestration workflows (OMP, Hermes, MCP)** and LLM pipelines (including ranking **40,000+ resumes** to fill 70 roles in 15 days).
-- Senior Computer Science student at **Universidade Presbiteriana Mackenzie** (graduating Dec 2026). My thesis compares a specialized deep learning model against multimodal LLMs for **diabetic retinopathy detection** — see the **[results page](https://danilohonda.github.io/cpdiabeticretinopathy-demo/)**.
+- Senior Computer Science student at **Universidade Presbiteriana Mackenzie** (graduating Dec 2026).
+- **Senior thesis — *Beyond the Human Eye*:** compared a specialized **ConvNeXt-Small** against **Gemini 3 Flash, Gemini 3.5 Flash and Gemma 4** at detecting **diabetic retinopathy** on 5,270 fundus images. The specialized model reached **QWK 0.83 vs. 0.28–0.45** for the general-purpose LLMs, which missed almost every early-stage case — see the **[interactive results page](https://danilohonda.github.io/cpdiabeticretinopathy-demo/)**.
 - Fluent in **English (EF SET C2)**, native in **Portuguese**, intermediate in **Spanish**.
 
 ---
